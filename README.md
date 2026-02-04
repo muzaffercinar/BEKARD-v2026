@@ -1,14 +1,16 @@
-BEKARD v2026
-Resmi Akademik Kayıt
-Bu mimari, DOI 10.5281/zenodo.18475969 numarasıyla resmi olarak kayıt altına alınmıştır.
+# BEKARD v2026
 
-Proje Genel Bakışı
-BEKARD (Öngörücü Bilişsel Risk Yönetim Sistemi), modern endüstriyel güvenlik ve yüksek riskli operasyonlar için geliştirilmiş hesaplamalı bir "Kavram Kanıtı" (Proof-of-Concept) çalışmasıdır. İnsan kaynaklı bilişsel hataları ve performans düşüşlerini henüz meydana gelmeden tahmin etmek amacıyla; çok modlu fizyolojik sinyalleri (GSR, PPG, EEG) entegre eden gelişmiş bir algoritmik yapıya sahiptir.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18475969.svg)](https://doi.org/10.5281/zenodo.18475969)
 
-Alıntı (Citation)
-Bu mimariyi veya kodu araştırmalarınızda kullanırken lütfen şu şekilde kaynak gösteriniz:
+### Resmi Akademik Kayıt
+Bu mimari, **DOI 10.5281/zenodo.18475969** numarasıyla resmi olarak kayıt altına alınmıştır.
 
-Çınar, M. (2026). BEKARD v2026: A Proof-of-Concept Computational Architecture for Predictive Cognitive Risk Management in High-Stakes Operations. Zenodo. https://doi.org/10.5281/zenodo.18475969
+### Proje Genel Bakışı
+**BEKARD** (Öngörücü Bilişsel Risk Yönetim Sistemi), modern endüstriyel güvenlik ve yüksek operasyonlar için geliştirilmiş programlamalı bir **"Kavram Kanıtı" (Proof-of-Concept)** çalışmasıdır. İnsani matematiksel hataları ve performans düşüşlerini henüz ortaya çıkmadan tahmin etmek amacıyla; çok modlu fizyolojik verileri (GSR, PPG, EEG) entegre eden gelişmiş bir algoritma yapısına sahiptir.
+
+### Alıntı (Citation)
+Bu mimariyi veya kodu araştırmalarınızda lütfen şu şekilde kaynak gösteriniz:  
+> **Çınar, M. (2026). BEKARD v2026: Yüksek Riskli Operasyonlarda Tahmine Dayalı Bilişsel Risk Yönetimi için Kavram Kanıtı Niteliğinde Bir Hesaplamalı Mimari. Zenodo. https://doi.org/10.5281/zenodo.18475969**
 # BEKARD v2026: A Computational Architecture for Predictive Cognitive Risk Management
 
 Official repository for the **BEKARD v2026** Architectural Framework. This repository contains the conceptual computational models, architectural design, and simulation protocols for the **QuantumMetricEngine™**.
