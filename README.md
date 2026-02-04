@@ -1,3 +1,16 @@
+# BEKARD v2026
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18475969.svg)](https://doi.org/10.5281/zenodo.18475969)
+
+> **Official Academic Registration:** This architecture is officially registered with DOI [10.5281/zenodo.18475969](https://doi.org/10.5281/zenodo.18475969)
+
+## Project Overview
+BEKARD (Predictive Cognitive Risk Management System) is a computational proof-of-concept for the **MCFİT** and **MC İSG** frameworks. It integrates multi-modal physiological signals to predict human cognitive errors before they occur.
+
+## Citation
+If you use this architecture or code in your research, please cite it as:
+**Çınar, M. (2026). BEKARD v2026: A Proof-of-Concept Computational Architecture for Predictive Cognitive Risk Management in High-Stakes Operations. Zenodo. https://doi.org/10.5281/zenodo.18475969**
+
 # BEKARD v2026: A Computational Architecture for Predictive Cognitive Risk Management
 
 Official repository for the **BEKARD v2026** Architectural Framework. This repository contains the conceptual computational models, architectural design, and simulation protocols for the **QuantumMetricEngine™**.
