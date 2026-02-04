@@ -6,7 +6,7 @@
 Bu mimari, **DOI 10.5281/zenodo.18475969** numarasıyla resmi olarak kayıt altına alınmıştır.
 
 ### Proje Genel Bakışı
-**BEKARD** (Öngörücü Bilişsel Risk Yönetim Sistemi), modern endüstriyel güvenlik ve yüksek operasyonlar için geliştirilmiş programlamalı bir **"Kavram Kanıtı" (Proof-of-Concept)** çalışmasıdır. İnsani matematiksel hataları ve performans düşüşlerini henüz ortaya çıkmadan tahmin etmek amacıyla; çok modlu fizyolojik verileri (GSR, PPG, EEG) entegre eden gelişmiş bir algoritma yapısına sahiptir.
+**BEKARD** (Öngörücü Bilişsel Risk Yönetim Sistemi), modern endüstriyel güvenlik ve yüksek operasyonlar için geliştirilmiş programlamalı bir **"Kavram Kanıtı" (Kavram Kanıtı)** çalışmasıdır. İnsani hataları ve performans düşüşlerini henüz ortaya çıkmadan tahmin etmek amacıyla; çok modlu entegre verileri (GSR, PPG, EEG) kullanan gelişmiş bir algoritmik yapıya sahiptir.
 
 ### Alıntı (Citation)
 Bu mimariyi veya kodu araştırmalarınızda lütfen şu şekilde kaynak gösteriniz:  
