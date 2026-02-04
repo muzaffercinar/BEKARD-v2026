@@ -1,16 +1,18 @@
-# BEKARD v2026
+# BEKARD v2026 
+## A Proof-of-Concept Computational Architecture for Predictive Cognitive Risk Management
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18475969.svg)](https://doi.org/10.5281/zenodo.18475969)
 
-### Resmi Akademik Kayıt
-Bu mimari, **DOI 10.5281/zenodo.18475969** numarasıyla resmi olarak kayıt altına alınmıştır.
+### 📄 Resmi Akademik Kayıt / Official Record
+Bu mimari, **DOI 10.5281/zenodo.18475969** numarasıyla resmi olarak kayıt altına alınmıştır.  
+This architecture is officially registered and archived at Zenodo.
 
-### Proje Genel Bakışı
-**BEKARD** (Öngörücü Bilişsel Risk Yönetim Sistemi), modern endüstriyel güvenlik ve yüksek operasyonlar için geliştirilmiş programlamalı bir **"Kavram Kanıtı" (Kavram Kanıtı)** çalışmasıdır. İnsani hataları ve performans düşüşlerini henüz ortaya çıkmadan tahmin etmek amacıyla; çok modlu entegre verileri (GSR, PPG, EEG) kullanan gelişmiş bir algoritmik yapıya sahiptir.
+### 🔍 Proje Genel Bakışı / Project Overview
+**BEKARD** (Predictive Cognitive Risk Management System) is a computational proof-of-concept developed for modern industrial safety and high-stakes operations. It features an advanced algorithmic structure that integrates multi-modal data (GSR, PPG, EEG) to predict human errors and performance degradation before they occur.
 
-### Alıntı (Citation)
-Bu mimariyi veya kodu araştırmalarınızda lütfen şu şekilde kaynak gösteriniz:  
-> **Çınar, M. (2026). BEKARD v2026: Yüksek Riskli Operasyonlarda Tahmine Dayalı Bilişsel Risk Yönetimi için Kavram Kanıtı Niteliğinde Bir Hesaplamalı Mimari. Zenodo. https://doi.org/10.5281/zenodo.18475969**
+### 📚 Alıntı Yap / How to Cite
+Bu mimariyi veya kodu araştırmalarınızda lütfen şu şekilde kaynak gösteriniz (English):
+> **Çınar, M. (2026). BEKARD v2026: A Proof-of-Concept Computational Architecture for Predictive Cognitive Risk Management in High-Stakes Operations. Zenodo. https://doi.org/10.5281/zenodo.18475969**
 # BEKARD v2026: A Computational Architecture for Predictive Cognitive Risk Management
 
 Official repository for the **BEKARD v2026** Architectural Framework. This repository contains the conceptual computational models, architectural design, and simulation protocols for the **QuantumMetricEngine™**.
