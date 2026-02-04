@@ -2,14 +2,15 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18475969.svg)](https://doi.org/10.5281/zenodo.18475969)
 
-> **Official Academic Registration:** This architecture is officially registered with DOI [10.5281/zenodo.18475969](https://doi.org/10.5281/zenodo.18475969)
+### Resmi Akademik Kayıt
+Bu mimari, **DOI [10.5281/zenodo.18475969](https://doi.org/10.5281/zenodo.18475969)** numarasıyla resmi olarak kayıt altına alınmıştır.
 
-## Project Overview
-BEKARD (Predictive Cognitive Risk Management System) is a computational proof-of-concept for the **MCFİT** and **MC İSG** frameworks. It integrates multi-modal physiological signals to predict human cognitive errors before they occur.
+### Proje Genel Bakışı
+**BEKARD** (Öngörücü Bilişsel Risk Yönetim Sistemi), modern endüstriyel güvenlik ve yüksek riskli operasyonlar için geliştirilmiş hesaplamalı bir "kavram kanıtı" (Proof-of-Concept) çalışmasıdır. İnsan bilişsel hatalarını ve performans düşüşlerini meydana gelmeden önce tahmin etmek amacıyla çok modlu fizyolojik sinyalleri (GSR, PPG, EEG) entegre eden gelişmiş bir algoritma yapısına sahiptir.
 
-## Citation
-If you use this architecture or code in your research, please cite it as:
-**Çınar, M. (2026). BEKARD v2026: A Proof-of-Concept Computational Architecture for Predictive Cognitive Risk Management in High-Stakes Operations. Zenodo. https://doi.org/10.5281/zenodo.18475969**
+### Alıntı (Citation)
+Bu mimariyi veya kodu araştırmanızda kullanıyorsanız, lütfen şu şekilde kaynak gösterin:  
+> **Çınar, M. (2026). BEKARD v2026: A Proof-of-Concept Computational Architecture for Predictive Cognitive Risk Management in High-Stakes Operations. Zenodo. https://doi.org/10.5281/zenodo.18475969**
 
 # BEKARD v2026: A Computational Architecture for Predictive Cognitive Risk Management
 
